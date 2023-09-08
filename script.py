@@ -22,6 +22,6 @@ chat_id = "5411173999"
 
 # متن پیام را در این قسمت وارد کنید
 text = "سلام! این یک پیام تستی است."
-while True:
+
 send_message(token, chat_id, text)
-time.sleep(10)
+
